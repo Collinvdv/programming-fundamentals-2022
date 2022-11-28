@@ -123,7 +123,7 @@ namespace collections
             //Console.WriteLine($"The avg is {avg}");
 
 
-            List<int> gradebook = new List<int>();
+            //List<int> gradebook = new List<int>();
             // 
             // Assignment 3: Spelling checker
             // O: Give the name that the user has to spell
@@ -161,41 +161,273 @@ namespace collections
             //    Console.WriteLine("Not correctly spelled");
             //}
 
-            // Version 2
-            Console.WriteLine("Give the name that the user has to spell");
-            string name = Console.ReadLine();
+            //// Version 2
+            //Console.WriteLine("Give the name that the user has to spell");
+            //string name = Console.ReadLine();
 
-            Console.WriteLine("Allright can you spell the word? [use STOP to stop typing]");
+            //Console.WriteLine("Allright can you spell the word? [use STOP to stop typing]");
 
-            string commando = Console.ReadLine();
-            List<string> spelledCharacters = new List<string>();
+            //string commando = Console.ReadLine();
+            //List<string> spelledCharacters = new List<string>();
 
-            // Fill up our spelledCharacters list
-            while (commando.ToLower() != "stop")
-            {
-                spelledCharacters.Add(commando);
+            //// Fill up our spelledCharacters list
+            //while (commando.ToLower() != "stop")
+            //{
+            //    spelledCharacters.Add(commando);
 
-                commando = Console.ReadLine();
-            }
+            //    commando = Console.ReadLine();
+            //}
+
+            ////
+            //bool isMatch = true;
+
+            //for (var index = 0; index < spelledCharacters.Count; index++)
+            //{
+            //    if (spelledCharacters[index] != Convert.ToString(name[index]))
+            //    {
+            //        isMatch = false;
+            //    } 
+            //}
+
+            //if (isMatch)
+            //{
+            //    Console.WriteLine("Correctly spelled");
+            //} else
+            //{
+            //    Console.WriteLine("Not correctly spelled");
+            //}
+
+            //Dictionary<string, double> gradebook = new Dictionary<string, double>();
+
+            //gradebook["collin"] = 20;
+            //gradebook.Add("lisa", 12);
+
+            //gradebook.Remove("Lisa");
+
+            //foreach(string studentname in gradebook.Keys) {
+            //    Console.WriteLine($"{studentname} has a score of {gradebook[studentname]}");
+            //}
+
+            //foreach (double grade in gradebook.Values)
+            //{
+            //    Console.WriteLine(grade);
+            //}
+
+            //foreach (var test in gradebook)
+            //{
+            //    Console.WriteLine(test.Key);
+            //    Console.WriteLine(test.Value);
+            //}
+
+            //Console.Write(gradebook.Count);
+
+            //Dictionary<string, List<int>> gradebook = new Dictionary<string, List<int>>();
+
+            //gradebook["collin"] = new List<int>();
+            //gradebook["collin"].Add(20);
+            //gradebook["collin"].Add(12);
+            //gradebook["collin"].Add(16);
+
+            //gradebook["lisa"] = new List<int>();
+            //gradebook["lisa"].Add(10);
+
+            //foreach (var student in gradebook)
+            //{
+            //    double totalAmountOfGrades = 0;
+
+            //    foreach(int grade in student.Value)
+            //    {
+            //        totalAmountOfGrades += grade;
+            //    }
+
+            //    double avg = totalAmountOfGrades / student.Value.Count;
+            //    Console.WriteLine($"{student.Key} has an avg of {avg}"); 
+            //}
 
             //
-            bool isMatch = true;
+            // O: There are 2 students:
+            // O: Collin has an average of 16
+            // O: Lisa has an average of 10
+            //
 
-            for (var index = 0; index < spelledCharacters.Count; index++)
+
+            // Using a dictionary list for todolist
+            // Output: Add to dos in your dictionary, say STOP to enter the input of to dos
+            // Input: learn c#
+            // Input: learn javascript
+            // Input: clean my room
+            // Input: STOP
+            // Output: Here are your todos:
+            // Output: 1. learn c#
+            // Output: 2. learn javascript
+            // Output: 3. clean my room
+            // Output: Do you wish to uncheck an item? (say STOP to stop the program)
+            // Input: learn c#
+            // Output: Here are your todos:
+            // Output: 1. learn javascript
+            // Output: 2. clean my room
+            // Output: Here the checked todos:
+            // Output: 1. learn c#
+            //Dictionary<string, bool> todos = new Dictionary<string, bool>();
+
+
+            //// Part 1: getting the data
+            //Console.WriteLine("Add to dos in your dictionary, say STOP to enter the input of to dos");
+            //string todo = Console.ReadLine();
+
+            //while (todo.ToLower() != "stop")
+            //{
+            //    // add to do to to do - list 
+            //    todos[todo] = true;
+
+            //    // ask again a todo ar a stop
+            //    todo = Console.ReadLine();
+            //}
+
+            //// Part 2 : displaying
+            //foreach (var item in todos)
+            //{
+            //    Console.WriteLine(item.Key);
+            //}
+
+            //// Part 3: unchecking
+            //Console.WriteLine("Do you wish to uncheck an item ? (say STOP to stop the program)");
+            //string commando = Console.ReadLine();
+
+            //while (commando != "stop")
+            //{
+            //    // check if it is existing and change the status of the todo
+            //    if (todos.ContainsKey(commando))
+            //    {
+            //        todos[commando] = !todos[commando];
+
+            //        // Show the unchecked items
+            //        Console.WriteLine("Unchecked items:");
+            //        foreach (var item in todos)
+            //        {
+            //            if (item.Value == true)
+            //            {
+            //                Console.WriteLine(item.Key);
+            //            }
+            //        }
+
+            //        // Show the checked item
+            //        Console.WriteLine("Checked items:");
+            //        foreach (var item in todos)
+            //        {
+            //            if (item.Value == false)
+            //            {
+            //                Console.WriteLine(item.Key);
+            //            }
+            //        }
+            //    }
+
+
+            //    // Ask new commando
+            //    commando = Console.ReadLine();
+            //}
+
+
+            //
+            // Spotify
+            // COMMANDS
+            //     ADD A SONG
+            //     LIST ALL ARTISTS
+            //     LIST ALL SONGS OF ARTIST
+            //     STOP
+
+            // I: ADD A SONG
+            // O: Name of artist:
+            // I: Justin Bwieber
+            // O: Name of song:
+            // I: Baby
+            // O: Justin Bwieber - Baby has been added
+            //
+            // I: ADD A SONG
+            // O: Name of artist:
+            // I: Justin Bwieber
+            // O: Name of song:
+            // I: Adult
+            // O: Justin Bwieber - Adult has been added
+            //
+            // I: LIST ALL ARTISTS
+            // O: 1. Justin Bwieber
+            //
+            // I: LIST ALL SONGS OF ARTIST
+            // I: Justin Bwieber
+            // O: 1. Baby
+            // O: 2. Adult
+            //
+            // I: STOP
+            // O: ThxBye
+
+
+            //
+            // Spotify
+            // COMMANDS
+            //     ADD A SONG
+            //     LIST ARTISTS
+            //     LIST SONGS OF ARTIST
+            //     STOP
+
+            string commando = Console.ReadLine().ToLower();
+            Dictionary<string, List<string>> spotify = new Dictionary<string, List<string>>();
+
+            while (commando != "stop")
             {
-                if (spelledCharacters[index] != Convert.ToString(name[index]))
+
+                switch (commando)
                 {
-                    isMatch = false;
-                } 
+                    case "add a song":
+                        Console.WriteLine("Name of the artist");
+                        string artistname = Console.ReadLine();
+                        Console.WriteLine("Name of song");
+                        string songname = Console.ReadLine();
+
+                        if (spotify.ContainsKey(artistname) == false)
+                        {
+                            spotify[artistname] = new List<string>();
+                        }   
+
+                        if (spotify[artistname].Contains(songname) == false)
+                        {
+                            spotify[artistname].Add(songname);
+                        } else
+                        {
+                            Console.WriteLine("Sorry, song is already in here");
+                        }
+                        
+ 
+                        break;
+                    case "list artists":
+                        foreach (string artist in spotify.Keys)
+                        {
+                            Console.WriteLine(artist);
+                        }
+                        break;
+                    case "list songs of artist":
+                        Console.WriteLine("Which artist?");
+                        string artist2 = Console.ReadLine();
+
+                        if (spotify.ContainsKey(artist2))
+                        {
+                            foreach (string song2 in spotify[artist2])
+                            {
+                                Console.WriteLine(song2);
+                            }
+                        }
+
+                        break;
+                    default:
+                        Console.WriteLine("What bruh, I don't understand the commando");
+                        break;
+                }
+
+                // Ask new commando
+                commando = Console.ReadLine().ToLower();
             }
 
-            if (isMatch)
-            {
-                Console.WriteLine("Correctly spelled");
-            } else
-            {
-                Console.WriteLine("Not correctly spelled");
-            }
+
         }
 
 
@@ -239,23 +471,7 @@ namespace collections
 // Assignment 5: Gradebook with names  (INDIVIDUAL)
 // 
 
-// Using a dictionary list for todolist
-// Output: Add to dos in your dictionary, say STOP to enter the input of to dos
-// Input: learn c#
-// Input: learn javascript
-// Input: clean my room
-// Input: STOP
-// Output: Here are your todos:
-// Output: 1. learn c#
-// Output: 2. learn javascript
-// Output: 3. clean my room
-// Output: Do you wish to uncheck an item? (say STOP to stop the program)
-// Input: learn c#
-// Output: Here are your todos:
-// Output: 1. learn javascript
-// Output: 2. clean my room
-// Output: Here the checked todos:
-// Output: 1. learn c#
+
 
 //
 // Exercise:
@@ -297,35 +513,3 @@ namespace collections
 
 //
 
-//
-// Spotify
-// COMMANDS
-//     ADD A SONG
-//     LIST ALL ARTISTS
-//     LIST ALL SONGS OF ARTIST
-//     STOP
-
-// I: ADD A SONG
-// O: Name of artist:
-// I: Justin Bwieber
-// O: Name of song:
-// I: Baby
-// O: Justin Bwieber - Baby has been added
-//
-// I: ADD A SONG
-// O: Name of artist:
-// I: Justin Bwieber
-// O: Name of song:
-// I: Adult
-// O: Justin Bwieber - Adult has been added
-//
-// I: LIST ALL ARTISTS
-// O: 1. Justin Bwieber
-//
-// I: LIST ALL SONGS OF ARTIST
-// I: Justin Bwieber
-// O: 1. Baby
-// O: 2. Adult
-//
-// I: STOP
-// O: ThxBye

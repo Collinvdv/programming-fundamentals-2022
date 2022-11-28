@@ -4,3 +4,9 @@
 /Users/collinvandervorst/Code/1dsps/collections/collections/bin/Debug/collections.pdb
 /Users/collinvandervorst/Code/1dsps/collections/collections/obj/Debug/collections.exe
 /Users/collinvandervorst/Code/1dsps/collections/collections/obj/Debug/collections.pdb
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/collections/collections/bin/Debug/collections.exe
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/collections/collections/bin/Debug/collections.pdb
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/collections/collections/obj/Debug/collections.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/collections/collections/obj/Debug/collections.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/collections/collections/obj/Debug/collections.exe
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/collections/collections/obj/Debug/collections.pdb
