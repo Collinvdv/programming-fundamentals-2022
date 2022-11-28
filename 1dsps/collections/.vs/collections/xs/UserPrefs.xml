@@ -1,11 +1,13 @@
-﻿<Properties StartupConfiguration="{27EA514F-CEBC-428C-9FA3-96B8C8120A9C}|Default">
-  <MonoDevelop.Ide.ItemProperties.Collections PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{C0B61560-BC61-413D-83D2-B8EF43315DE5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="collections/Program.cs">
+    <Files>
+      <File FileName="collections/Program.cs" Line="195" Column="19" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Collections" expanded="True">
-            <Node name="Collections" expanded="True">
+          <Node name="collections" expanded="True">
+            <Node name="collections" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -14,6 +16,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.collections PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
