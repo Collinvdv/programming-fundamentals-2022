@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{40F80F4D-2B60-4EB1-8A59-C74C021D0621}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="consecutive/Program.cs">
+    <Files>
+      <File FileName="consecutive/Program.cs" Line="10" Column="70" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="consecutive" expanded="True">
+            <Node name="consecutive" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.consecutive PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

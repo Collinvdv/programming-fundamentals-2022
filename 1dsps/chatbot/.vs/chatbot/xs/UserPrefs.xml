@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{F0C2C5B3-9AC6-4892-BF12-3CBBE4C317E8}|Default">
+  <MonoDevelop.Ide.ItemProperties.chatbot FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="chatbot/Program.cs">
+    <Files>
+      <File FileName="chatbot/Program.cs" Line="42" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="chatbot" expanded="True">
+            <Node name="chatbot" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

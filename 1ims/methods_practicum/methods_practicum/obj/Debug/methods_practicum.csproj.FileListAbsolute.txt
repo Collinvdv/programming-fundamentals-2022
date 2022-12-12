@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1ims/methods_practicum/methods_practicum/bin/Debug/methods_practicum.exe
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1ims/methods_practicum/methods_practicum/bin/Debug/methods_practicum.pdb
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1ims/methods_practicum/methods_practicum/obj/Debug/methods_practicum.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1ims/methods_practicum/methods_practicum/obj/Debug/methods_practicum.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1ims/methods_practicum/methods_practicum/obj/Debug/methods_practicum.exe
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1ims/methods_practicum/methods_practicum/obj/Debug/methods_practicum.pdb

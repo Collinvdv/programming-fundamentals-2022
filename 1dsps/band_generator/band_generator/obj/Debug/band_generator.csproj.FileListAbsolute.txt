@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/band_generator/band_generator/bin/Debug/band_generator.exe
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/band_generator/band_generator/bin/Debug/band_generator.pdb
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/band_generator/band_generator/obj/Debug/band_generator.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/band_generator/band_generator/obj/Debug/band_generator.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/band_generator/band_generator/obj/Debug/band_generator.exe
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/band_generator/band_generator/obj/Debug/band_generator.pdb

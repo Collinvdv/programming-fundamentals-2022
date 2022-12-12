@@ -1,0 +1,7 @@
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/goldenboot/goldenboot/bin/Debug/votes.txt
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/goldenboot/goldenboot/bin/Debug/goldenboot.exe
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/goldenboot/goldenboot/bin/Debug/goldenboot.pdb
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/goldenboot/goldenboot/obj/Debug/goldenboot.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/goldenboot/goldenboot/obj/Debug/goldenboot.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/goldenboot/goldenboot/obj/Debug/goldenboot.exe
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/goldenboot/goldenboot/obj/Debug/goldenboot.pdb

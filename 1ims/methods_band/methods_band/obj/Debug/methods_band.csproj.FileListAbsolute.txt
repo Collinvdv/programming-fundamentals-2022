@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1ims/methods_band/methods_band/bin/Debug/methods_band.exe
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1ims/methods_band/methods_band/bin/Debug/methods_band.pdb
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1ims/methods_band/methods_band/obj/Debug/methods_band.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1ims/methods_band/methods_band/obj/Debug/methods_band.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1ims/methods_band/methods_band/obj/Debug/methods_band.exe
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1ims/methods_band/methods_band/obj/Debug/methods_band.pdb

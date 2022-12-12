@@ -370,62 +370,89 @@ namespace collections
             //     LIST SONGS OF ARTIST
             //     STOP
 
-            string commando = Console.ReadLine().ToLower();
-            Dictionary<string, List<string>> spotify = new Dictionary<string, List<string>>();
+            //string commando = Console.ReadLine().ToLower();
+            //Dictionary<string, List<string>> spotify = new Dictionary<string, List<string>>();
 
-            while (commando != "stop")
+            //while (commando != "stop")
+            //{
+
+            //    switch (commando)
+            //    {
+            //        case "add a song":
+            //            // Ask input 
+            //            Console.WriteLine("Name of the artist");
+            //            string artistname = Console.ReadLine();
+            //            Console.WriteLine("Name of song");
+            //            string songname = Console.ReadLine();
+
+            //            // Check if artist name is existig, if not add new list to it
+            //            if (spotify.ContainsKey(artistname) == false)
+            //            {
+            //                spotify[artistname] = new List<string>();
+            //            }   
+
+            //            // Check if song is already in the list 
+            //            if (spotify[artistname].Contains(songname) == false)
+            //            {
+            //                spotify[artistname].Add(songname);
+            //            } else
+            //            {
+            //                Console.WriteLine("Sorry, song is already in here");
+            //            }
+
+
+            //            break;
+            //        case "list artists":
+            //            // Loop over the artist 
+            //            foreach (string artist in spotify.Keys)
+            //            {
+            //                Console.WriteLine(artist);
+            //            }
+            //            break;
+            //        case "list songs of artist":
+            //            Console.WriteLine("Which artist?");
+            //            string artist2 = Console.ReadLine();
+
+            //            // Check if artist is existing, if it is then show the songs
+            //            if (spotify.ContainsKey(artist2))
+            //            {
+            //                // loop over the songs of an artist
+            //                foreach (string song2 in spotify[artist2])
+            //                {
+            //                    Console.WriteLine(song2);
+            //                }
+            //            }
+
+            //            break;
+            //        default:
+            //            Console.WriteLine("What bruh, I don't understand the commando");
+            //            break;
+            //    }
+
+            //    // Ask new commando
+            //    commando = Console.ReadLine().ToLower();
+
+            //}
+
+            // 1ste woord
+            string word = Console.ReadLine(); // *-*
+            string[] words = new string[word.Length];
+            words[0] = word;
+
+            // loop
+            for (int index = 1; index < word.Length; index++)
             {
-
-                switch (commando)
-                {
-                    case "add a song":
-                        Console.WriteLine("Name of the artist");
-                        string artistname = Console.ReadLine();
-                        Console.WriteLine("Name of song");
-                        string songname = Console.ReadLine();
-
-                        if (spotify.ContainsKey(artistname) == false)
-                        {
-                            spotify[artistname] = new List<string>();
-                        }   
-
-                        if (spotify[artistname].Contains(songname) == false)
-                        {
-                            spotify[artistname].Add(songname);
-                        } else
-                        {
-                            Console.WriteLine("Sorry, song is already in here");
-                        }
-                        
- 
-                        break;
-                    case "list artists":
-                        foreach (string artist in spotify.Keys)
-                        {
-                            Console.WriteLine(artist);
-                        }
-                        break;
-                    case "list songs of artist":
-                        Console.WriteLine("Which artist?");
-                        string artist2 = Console.ReadLine();
-
-                        if (spotify.ContainsKey(artist2))
-                        {
-                            foreach (string song2 in spotify[artist2])
-                            {
-                                Console.WriteLine(song2);
-                            }
-                        }
-
-                        break;
-                    default:
-                        Console.WriteLine("What bruh, I don't understand the commando");
-                        break;
-                }
-
-                // Ask new commando
-                commando = Console.ReadLine().ToLower();
+                words[index] = Console.ReadLine();
             }
+
+            // Output
+            for (int index = word.Length - 1; index >= 0; index++)
+            {
+                Console.WriteLine(words[index]);
+            }
+
+
+
 
 
         }

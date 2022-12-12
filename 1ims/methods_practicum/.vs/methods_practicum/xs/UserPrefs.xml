@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C4C1BA62-C8C0-483C-AE9F-80F232317154}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="methods_practicum/Program.cs">
+    <Files>
+      <File FileName="methods_practicum/Program.cs" Line="15" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="methods_practicum" expanded="True">
+            <Node name="methods_practicum" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.methods__practicum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

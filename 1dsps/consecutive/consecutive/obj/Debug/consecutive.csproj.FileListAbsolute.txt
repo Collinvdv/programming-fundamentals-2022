@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/consecutive/consecutive/bin/Debug/consecutive.exe
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/consecutive/consecutive/bin/Debug/consecutive.pdb
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/consecutive/consecutive/obj/Debug/consecutive.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/consecutive/consecutive/obj/Debug/consecutive.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/consecutive/consecutive/obj/Debug/consecutive.exe
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/consecutive/consecutive/obj/Debug/consecutive.pdb

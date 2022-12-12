@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/palindrome/palindrome/bin/Debug/palindrome.exe
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/palindrome/palindrome/bin/Debug/palindrome.pdb
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/palindrome/palindrome/obj/Debug/palindrome.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/palindrome/palindrome/obj/Debug/palindrome.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/palindrome/palindrome/obj/Debug/palindrome.exe
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/palindrome/palindrome/obj/Debug/palindrome.pdb

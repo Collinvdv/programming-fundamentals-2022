@@ -1,0 +1,7 @@
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/blackjack/blackjack/bin/Debug/blackjack.exe
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/blackjack/blackjack/bin/Debug/blackjack.pdb
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/blackjack/blackjack/obj/Debug/blackjack.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/blackjack/blackjack/obj/Debug/blackjack.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/blackjack/blackjack/obj/Debug/blackjack.exe
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/blackjack/blackjack/obj/Debug/blackjack.pdb
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/blackjack/blackjack/bin/Debug/testFIle.txt

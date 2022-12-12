@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{19E141E3-AE2F-43AA-B09F-84FC25CBD1F5}|Default">
+  <MonoDevelop.Ide.ItemProperties.band__generator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="band_generator/Program.cs">
+    <Files>
+      <File FileName="band_generator/Program.cs" Line="10" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="band_generator" expanded="True">
+            <Node name="band_generator" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

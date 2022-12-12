@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1ims/tictactoe/tictactoe/bin/Debug/tictactoe.exe
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1ims/tictactoe/tictactoe/bin/Debug/tictactoe.pdb
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1ims/tictactoe/tictactoe/obj/Debug/tictactoe.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1ims/tictactoe/tictactoe/obj/Debug/tictactoe.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1ims/tictactoe/tictactoe/obj/Debug/tictactoe.exe
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1ims/tictactoe/tictactoe/obj/Debug/tictactoe.pdb

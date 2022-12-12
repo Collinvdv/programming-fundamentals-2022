@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Code/1ims/methods_theory/methods_theory/bin/Debug/methods_theory.exe
+/Users/collinvandervorst/Code/1ims/methods_theory/methods_theory/bin/Debug/methods_theory.pdb
+/Users/collinvandervorst/Code/1ims/methods_theory/methods_theory/obj/Debug/methods_theory.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Code/1ims/methods_theory/methods_theory/obj/Debug/methods_theory.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Code/1ims/methods_theory/methods_theory/obj/Debug/methods_theory.exe
+/Users/collinvandervorst/Code/1ims/methods_theory/methods_theory/obj/Debug/methods_theory.pdb

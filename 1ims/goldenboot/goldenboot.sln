@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "goldenboot", "goldenboot\goldenboot.csproj", "{A8758CCD-87A5-4F20-A190-1A228F02415E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8758CCD-87A5-4F20-A190-1A228F02415E}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{A8758CCD-87A5-4F20-A190-1A228F02415E}.Debug|anycpu.Build.0 = Debug|anycpu
+		{A8758CCD-87A5-4F20-A190-1A228F02415E}.Release|anycpu.ActiveCfg = Release|anycpu
+		{A8758CCD-87A5-4F20-A190-1A228F02415E}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D43D3BFB-9666-4ED3-9CEC-3D0A3958F958}
+	EndGlobalSection
+EndGlobal

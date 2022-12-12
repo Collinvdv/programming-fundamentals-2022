@@ -1,0 +1,6 @@
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/chatbot/chatbot/bin/Debug/chatbot.exe
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/chatbot/chatbot/bin/Debug/chatbot.pdb
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/chatbot/chatbot/obj/Debug/chatbot.csproj.AssemblyReference.cache
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/chatbot/chatbot/obj/Debug/chatbot.csproj.CoreCompileInputs.cache
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/chatbot/chatbot/obj/Debug/chatbot.exe
+/Users/collinvandervorst/Code/school/2022/programming-fundamentals-2022/1dsps/chatbot/chatbot/obj/Debug/chatbot.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "methods_practicum", "methods_practicum\methods_practicum.csproj", "{C4C1BA62-C8C0-483C-AE9F-80F232317154}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4C1BA62-C8C0-483C-AE9F-80F232317154}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{C4C1BA62-C8C0-483C-AE9F-80F232317154}.Debug|anycpu.Build.0 = Debug|anycpu
+		{C4C1BA62-C8C0-483C-AE9F-80F232317154}.Release|anycpu.ActiveCfg = Release|anycpu
+		{C4C1BA62-C8C0-483C-AE9F-80F232317154}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0679D647-07C9-4332-B38E-EED640A3A649}
+	EndGlobalSection
+EndGlobal
