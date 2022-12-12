@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{F0C2C5B3-9AC6-4892-BF12-3CBBE4C317E8}|Default">
-  <MonoDevelop.Ide.ItemProperties.chatbot PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="chatbot/Program.cs">
+﻿<Properties StartupConfiguration="{7C83CF4E-F425-4051-894A-4D0B72728DD6}|Default">
+  <MonoDevelop.Ide.ItemProperties.tictactoe FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="tictactoe/Program.cs">
     <Files>
-      <File FileName="chatbot/Program.cs" Line="35" Column="20" />
+      <File FileName="tictactoe/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="chatbot" expanded="True">
-            <Node name="chatbot" expanded="True">
+          <Node name="tictactoe" expanded="True">
+            <Node name="tictactoe" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
